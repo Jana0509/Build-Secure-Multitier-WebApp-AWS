@@ -42,4 +42,14 @@ The primary goal of this project was to build a multi-tier architecture while fo
    
 12. Route 53:
     * Created the domain in public hosted zone and leveraged Route 53 for the resolving the Ip address from the internet.
+   
+
+## Learnings:
+🔹 How to design and implement secure cloud architectures following AWS best practices.
+🔹 How AWS security services like Config, Inspector, and KMS help identify, monitor, and mitigate risks.
+🔹 The importance of encryption, IAM role-based access control, and network isolation across different layers.
+🔹 How to secure data in transit and at rest using SSL/TLS, KMS, and IAM policies.
+
+## Conclusion:
+This project has been an incredible hands-on learning experience, deepening my expertise in AWS security, architecture design, and compliance management. Building scalable, fault-tolerant, and highly secure applications is critical in the cloud, and I’m excited to apply these learnings to real-world security challenges! 
 
