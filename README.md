@@ -5,6 +5,10 @@ Build A Secure, Scalable and Resilient Web Application
 The primary goal of this project was to build a multi-tier architecture while following strong security principles across all layers—from the CDN and web tier to the database layer. I implemented strict security controls, encryption mechanisms, and continuous monitoring to prevent unauthorized access and ensure compliance with best practices. This Project demonstrates the hosting a blog website in VPC from scratch and hosting a website Scalable, Reliable, Secure and cost optimized on AWS using various AWS Services. The Static website consists of html, css and js is deployed in S3 static website for High durability and availability and its fronted with the cloudfront for providing the low latency, high performance frontend to the endusers. The backend is running in EC2 deployed across multiple AZs for high availability and its tied with the RDS MYSQL[Primary-Backup setup] for the data layer which is also deployed across multi-AZ.
 
 
+## Architecture:
+![image](https://github.com/user-attachments/assets/c7f97474-2f44-4d50-a9e7-f354f3724de4)
+
+
 ## Project Highlights:
 
 1. VPC
