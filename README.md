@@ -38,7 +38,7 @@ The primary goal of this project was to build a multi-tier architecture while fo
     * Leveraged Launch template by configuring the OS, installing the web server and copying the Static files from S3 to reduce the application installing time once the instances are launched.
 
 11. ACM:
-    * Created the public certificate in certificate manager for seamless certificate management and used in CDN and ALB.
+    * Created the public certificate in certificate manager for seamless certificate management and used in CDN
    
 12. Route 53:
     * Created the domain in public hosted zone and leveraged Route 53 for the resolving the Ip address from the internet.
